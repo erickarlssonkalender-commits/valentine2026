@@ -35,7 +35,7 @@ const CONFIG = {
             nextBtn: "Nästa ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Vill du vara min Valentine, eller ska jag behöva muta dig med choklad? 🍫", // The big question!
+            text: "Vill du vara min Valentine, eller ska jag behöva muta dig Inca Kola? 💝", // The big question!
             yesBtn: "Ja!",                                             // Text for "Yes" button
             noBtn: "Nej"                                                 // Text for "No" button
         }
@@ -52,7 +52,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! Jag är den lyckligaste personen i världen!",
-        message: "Kom ska jag ge dig en gåva, kanske också ett hårt paket och en kram !",
+        message: "Kom ska jag ge dig en gåva och en kram!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
