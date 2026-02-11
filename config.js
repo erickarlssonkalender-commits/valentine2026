@@ -51,7 +51,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Jag är den lyckligaste personen i världen! 🎉💝💖💝💓",
+        title: "Yay! Jag är den lyckligaste personen i världen!",
         message: "Kom ska jag ge dig en gåva, kanske också ett hårt paket och en kram !",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
