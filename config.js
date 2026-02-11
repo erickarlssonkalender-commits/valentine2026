@@ -35,7 +35,7 @@ const CONFIG = {
             nextBtn: "Nästa ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Vill du vara min Valentine, eller ska jag behöva muta dig Inca Kola? 💝", // The big question!
+            text: "Vill du vara min Valentine, eller ska jag behöva muta dig med Inca Kola? 💝", // The big question!
             yesBtn: "Ja!",                                             // Text for "Yes" button
             noBtn: "Nej"                                                 // Text for "No" button
         }
